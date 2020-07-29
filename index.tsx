@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 import Hello from './Hello';
-import './style.css';
+import './index.scss';
 
 interface AppProps { }
 interface AppState {
